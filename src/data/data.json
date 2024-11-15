@@ -1,0 +1,804 @@
+{
+    "countries": 114,
+    "baseCurrency": "KES",
+    "rates": [
+        {
+            "country": "Kenya",
+            "currency": "KES",
+            "name": "Kenyan Shilling",
+            "rate": 1,
+            "flag": "/flags/ke.png"
+        },
+        {
+            "country": "Uganda",
+            "currency": "UGX",
+            "name": "Ugandan Shilling",
+            "rate": 28.392473,
+            "flag": "/flags/ug.png"
+        },
+        {
+            "country": "Tanzania",
+            "currency": "TZS",
+            "name": "Tanzanian Shilling",
+            "rate": 20.585074,
+            "flag": "/flags/tz.png"
+        },
+        {
+            "country": "Rwanda",
+            "currency": "RWF",
+            "name": "Rwandan Franc",
+            "rate": 10.622245,
+            "flag": "/flags/rw.png"
+        },
+        {
+            "country": "Burundi",
+            "currency": "BIF",
+            "name": "Burundian Franc",
+            "rate": 22.843964,
+            "flag": "/flags/bi.png"
+        },
+        {
+            "country": "South Sudan",
+            "currency": "SSP",
+            "name": "South Sudanese Pound",
+            "rate": 0.002,
+            "flag": "/flags/ss.png"
+        },
+        {
+            "country": "Somalia",
+            "currency": "SOS",
+            "name": "Somali Shilling",
+            "rate": 4.421282,
+            "flag": "/flags/so.png"
+        },
+        {
+            "country": "Ethiopia",
+            "currency": "ETB",
+            "name": "Ethiopian Birr",
+            "rate": 0.959004,
+            "flag": "/flags/et.png"
+        },
+        {
+            "country": "Eritrea",
+            "currency": "ERN",
+            "name": "Eritrean Nakfa",
+            "rate": 0.116081,
+            "flag": "/flags/er.png"
+        },
+        {
+            "country": "Djibouti",
+            "currency": "DJF",
+            "name": "Djiboutian Franc",
+            "rate": 1.377673,
+            "flag": "/flags/dj.png"
+        },
+        {
+            "country": "Sudan",
+            "currency": "SDG",
+            "name": "Sudanese Pound",
+            "rate": 4.654875,
+            "flag": "/flags/sd.png"
+        },
+        {
+            "country": "Egypt",
+            "currency": "EGP",
+            "name": "Egyptian Pound",
+            "rate": 0.383554,
+            "flag": "/flags/eg.png"
+        },
+        {
+            "country": "Libya",
+            "currency": "LYD",
+            "name": "Libyan Dinar",
+            "rate": 0.037791,
+            "flag": "/flags/ly.png"
+        },
+        {
+            "country": "Tunisia",
+            "currency": "TND",
+            "name": "Tunisian Dinar",
+            "rate": 0.024435,
+            "flag": "/flags/tn.png"
+        },
+        {
+            "country": "Algeria",
+            "currency": "DZD",
+            "name": "Algerian Dinar",
+            "rate": 1.036252,
+            "flag": "/flags/dz.png"
+        },
+        {
+            "country": "Morocco",
+            "currency": "MAD",
+            "name": "Moroccan Dirham",
+            "rate": 0.077272,
+            "flag": "/flags/ma.png"
+        },
+        {
+            "country": "Mauritania",
+            "currency": "MRU",
+            "name": "Mauritanian Ouguiya",
+            "rate": 0.307559,
+            "flag": "/flags/mr.png"
+        },
+        {
+            "country": "Mali",
+            "currency": "XOF",
+            "name": "West African CFA Franc",
+            "rate": 4.819961,
+            "flag": "/flags/ml.png"
+        },
+        {
+            "country": "Niger",
+            "currency": "XOF",
+            "name": "West African CFA Franc",
+            "rate": 4.819961,
+            "flag": "/flags/ne.png"
+        },
+        {
+            "country": "Nigeria",
+            "currency": "NGN",
+            "name": "Nigerian Naira",
+            "rate": 12.9987,
+            "flag": "/flags/ng.png"
+        },
+        {
+            "country": "Ghana",
+            "currency": "GHS",
+            "name": "Ghanaian Cedi",
+            "rate": 0.124364,
+            "flag": "/flags/gh.png"
+        },
+        {
+            "country": "Sierra Leone",
+            "currency": "SLL",
+            "name": "Sierra Leonean Leone",
+            "rate": 162.277738,
+            "flag": "/flags/sl.png"
+        },
+        {
+            "country": "Liberia",
+            "currency": "LRD",
+            "name": "Liberian Dollar",
+            "rate": 1.427419,
+            "flag": "/flags/lr.png"
+        },
+        {
+            "country": "Guinea",
+            "currency": "GNF",
+            "name": "Guinean Franc",
+            "rate": 66.676302,
+            "flag": "/flags/gn.png"
+        },
+        {
+            "country": "Guinea-Bissau",
+            "currency": "XOF",
+            "name": "West African CFA Franc",
+            "rate": 4.819961,
+            "flag": "/flags/gw.png"
+        },
+        {
+            "country": "Senegal",
+            "currency": "XOF",
+            "name": "West African CFA Franc",
+            "rate": 4.819961,
+            "flag": "/flags/sn.png"
+        },
+        {
+            "country": "Gambia",
+            "currency": "GMD",
+            "name": "Gambian Dalasi",
+            "rate": 0.549449,
+            "flag": "/flags/gm.png"
+        },
+        {
+            "country": "Cape Verde",
+            "currency": "CVE",
+            "name": "Cape Verdean Escudo",
+            "rate": 0.810222,
+            "flag": "/flags/cv.png"
+        },
+        {
+            "country": "Sao Tome and Principe",
+            "currency": "STN",
+            "name": "Sao Tome and Principe Dobra",
+            "rate": 160.176484,
+            "flag": "/flags/st.png"
+        },
+        {
+            "country": "Equatorial Guinea",
+            "currency": "XAF",
+            "name": "Central African CFA Franc",
+            "rate": 4.819961,
+            "flag": "/flags/gq.png"
+        },
+        {
+            "country": "Gabon",
+            "currency": "XAF",
+            "name": "Central African CFA Franc",
+            "rate": 4.819961,
+            "flag": "/flags/ga.png"
+        },
+        {
+            "country": "Congo",
+            "currency": "XAF",
+            "name": "Central African CFA Franc",
+            "rate": 4.819961,
+            "flag": "/flags/cg.png"
+        },
+        {
+            "country": "Democratic Republic of the Congo",
+            "currency": "CDF",
+            "name": "Congolese Franc",
+            "rate": 22.179255,
+            "flag": "/flags/cd.png"
+        },
+        {
+            "country": "Angola",
+            "currency": "AOA",
+            "name": "Angolan Kwanza",
+            "rate": 7.065476,
+            "flag": "/flags/ao.png"
+        },
+        {
+            "country": "Zambia",
+            "currency": "ZMW",
+            "name": "Zambian Kwacha",
+            "rate": 0.212172,
+            "flag": "/flags/zm.png"
+        },
+        {
+            "country": "Zimbabwe",
+            "currency": "ZWL",
+            "name": "Zimbabwean Dollar",
+            "rate": 2.491874,
+            "flag": "/flags/zw.png"
+        },
+        {
+            "country": "Botswana",
+            "currency": "BWP",
+            "name": "Botswana Pula",
+            "rate": 0.1062,
+            "flag": "/flags/bw.png"
+        },
+        {
+            "country": "Namibia",
+            "currency": "NAD",
+            "name": "Namibian Dollar",
+            "rate": 0.141613,
+            "flag": "/flags/na.png"
+        },
+        {
+            "country": "South Africa",
+            "currency": "ZAR",
+            "name": "South African Rand",
+            "rate": 0.14145,
+            "flag": "/flags/za.png"
+        },
+        {
+            "country": "Lesotho",
+            "currency": "LSL",
+            "name": "Lesotho Loti",
+            "rate": 0.14145,
+            "flag": "/flags/ls.png"
+        },
+        {
+            "country": "Swaziland",
+            "currency": "SZL",
+            "name": "Swazi Lilangeni",
+            "rate": 0.14145,
+            "flag": "/flags/sz.png"
+        },
+        {
+            "country": "Madagascar",
+            "currency": "MGA",
+            "name": "Malagasy Ariary",
+            "rate": 4.019,
+            "flag": "/flags/mg.png"
+        },
+        {
+            "country": "Mozambique",
+            "currency": "MZN",
+            "name": "Mozambican Metical",
+            "rate": 5.982,
+            "flag": "/flags/mz.png"
+        },
+        {
+            "country": "Malawi",
+            "currency": "MWK",
+            "name": "Malawian Kwacha",
+            "rate": 0.073,
+            "flag": "/flags/mw.png"
+        },
+        {
+            "country": "Zanzibar",
+            "currency": "TZS",
+            "name": "Tanzanian Shilling",
+            "rate": 20.585074,
+            "flag": "/flags/tz.png"
+        },
+        {
+            "country": "Comoros",
+            "currency": "KMF",
+            "name": "Comorian Franc",
+            "rate": 0.222,
+            "flag": "/flags/km.png"
+        },
+        {
+            "country": "Seychelles",
+            "currency": "SCR",
+            "name": "Seychellois Rupee",
+            "rate": 0.051,
+            "flag": "/flags/sc.png"
+        },
+        {
+            "country": "Mauritius",
+            "currency": "MUR",
+            "name": "Mauritian Rupee",
+            "rate": 0.22,
+            "flag": "/flags/mu.png"
+        },
+        {
+            "country": "Reunion",
+            "currency": "EUR",
+            "name": "Euro",
+            "rate": 0.008,
+            "flag": "/flags/re.png"
+        },
+        {
+            "country": "Mayotte",
+            "currency": "EUR",
+            "name": "Euro",
+            "rate": 0.008,
+            "flag": "/flags/yt.png"
+        },
+        {
+            "country": "Saint Helena",
+            "currency": "SHP",
+            "name": "Saint Helena Pound",
+            "rate": 0.007,
+            "flag": "/flags/sh.png"
+        },
+        {
+            "country": "Gibraltar",
+            "currency": "GIP",
+            "name": "Gibraltar Pound",
+            "rate": 0.007,
+            "flag": "/flags/gi.png"
+        },
+        {
+            "country": "Falkland Islands",
+            "currency": "FKP",
+            "name": "Falkland Islands Pound",
+            "rate": 0.007,
+            "flag": "/flags/fk.png"
+        },
+        {
+            "country": "Pitcairn Islands",
+            "currency": "NZD",
+            "name": "New Zealand Dollar",
+            "rate": 0.019,
+            "flag": "/flags/pn.png"
+        },
+        {
+            "country": "British Indian Ocean Territory",
+            "currency": "USD",
+            "name": "United States Dollar",
+            "rate": 0.001,
+            "flag": "/flags/io.png"
+        },
+        {
+            "country": "Christmas Island",
+            "currency": "AUD",
+            "name": "Australian Dollar",
+            "rate": 0.002,
+            "flag": "/flags/cx.png"
+        },
+        {
+            "country": "Cocos (Keeling) Islands",
+            "currency": "AUD",
+            "name": "Australian Dollar",
+            "rate": 0.002,
+            "flag": "/flags/cc.png"
+        },
+        {
+            "country": "Norfolk Island",
+            "currency": "AUD",
+            "name": "Australian Dollar",
+            "rate": 0.002,
+            "flag": "/flags/nf.png"
+        },
+        {
+            "country": "Nauru",
+            "currency": "AUD",
+            "name": "Australian Dollar",
+            "rate": 0.002,
+            "flag": "/flags/nr.png"
+        },
+        {
+            "country": "Tuvalu",
+            "currency": "AUD",
+            "name": "Australian Dollar",
+            "rate": 0.002,
+            "flag": "/flags/tv.png"
+        },
+        {
+            "country": "Kiribati",
+            "currency": "AUD",
+            "name": "Australian Dollar",
+            "rate": 0.002,
+            "flag": "/flags/ki.png"
+        },
+        {
+            "country": "Niue",
+            "currency": "NZD",
+            "name": "New Zealand Dollar",
+            "rate": 0.019,
+            "flag": "/flags/nu.png"
+        },
+        {
+            "country": "Tokelau",
+            "currency": "NZD",
+            "name": "New Zealand Dollar",
+            "rate": 0.019,
+            "flag": "/flags/tk.png"
+        },
+        {
+            "country": "American Samoa",
+            "currency": "USD",
+            "name": "United States Dollar",
+            "rate": 0.001,
+            "flag": "/flags/as.png"
+        },
+        {
+            "country": "Guam",
+            "currency": "USD",
+            "name": "United States Dollar",
+            "rate": 0.001,
+            "flag": "/flags/gu.png"
+        },
+        {
+            "country": "Northern Mariana Islands",
+            "currency": "USD",
+            "name": "United States Dollar",
+            "rate": 0.001,
+            "flag": "/flags/mp.png"
+        },
+        {
+            "country": "Puerto Rico",
+            "currency": "USD",
+            "name": "United States Dollar",
+            "rate": 0.001,
+            "flag": "/flags/pr.png"
+        },
+        {
+            "country": "U.S. Virgin Islands",
+            "currency": "USD",
+            "name": "United States Dollar",
+            "rate": 0.001,
+            "flag": "/flags/vi.png"
+        },
+        {
+            "country": "Bermuda",
+            "currency": "BMD",
+            "name": "Bermudian Dollar",
+            "rate": 0.001,
+            "flag": "/flags/bm.png"
+        },
+        {
+            "country": "Canada",
+            "currency": "CAD",
+            "name": "Canadian Dollar",
+            "rate": 0.001,
+            "flag": "/flags/ca.png"
+        },
+        {
+            "country": "Greenland",
+            "currency": "DKK",
+            "name": "Danish Krone",
+            "rate": 0.007,
+            "flag": "/flags/gl.png"
+        },
+        {
+            "country": "Saint Pierre and Miquelon",
+            "currency": "EUR",
+            "name": "Euro",
+            "rate": 0.008,
+            "flag": "/flags/pm.png"
+        },
+        {
+            "country": "United States",
+            "currency": "USD",
+            "name": "United States Dollar",
+            "rate": 0.001,
+            "flag": "/flags/us.png"
+        },
+        {
+            "country": "Mexico",
+            "currency": "MXN",
+            "name": "Mexican Peso",
+            "rate": 0.021,
+            "flag": "/flags/mx.png"
+        },
+        {
+            "country": "Belize",
+            "currency": "BZD",
+            "name": "Belize Dollar",
+            "rate": 0.002,
+            "flag": "/flags/bz.png"
+        },
+        {
+            "country": "Guatemala",
+            "currency": "GTQ",
+            "name": "Guatemalan Quetzal",
+            "rate": 0.008,
+            "flag": "/flags/gt.png"
+        },
+        {
+            "country": "El Salvador",
+            "currency": "USD",
+            "name": "United States Dollar",
+            "rate": 0.001,
+            "flag": "/flags/sv.png"
+        },
+        {
+            "country": "Honduras",
+            "currency": "HNL",
+            "name": "Honduran Lempira",
+            "rate": 0.025,
+            "flag": "/flags/hn.png"
+        },
+        {
+            "country": "Nicaragua",
+            "currency": "NIO",
+            "name": "Nicaraguan Cordoba",
+            "rate": 0.033,
+            "flag": "/flags/ni.png"
+        },
+        {
+            "country": "Costa Rica",
+            "currency": "CRC",
+            "name": "Costa Rican Colon",
+            "rate": 0.07,
+            "flag": "/flags/cr.png"
+        },
+        {
+            "country": "Panama",
+            "currency": "PAB",
+            "name": "Panamanian Balboa",
+            "rate": 0.001,
+            "flag": "/flags/pa.png"
+        },
+        {
+            "country": "Colombia",
+            "currency": "COP",
+            "name": "Colombian Peso",
+            "rate": 0.004,
+            "flag": "/flags/co.png"
+        },
+        {
+            "country": "Venezuela",
+            "currency": "VES",
+            "name": "Venezuelan Bolivar",
+            "rate": 0.0001,
+            "flag": "/flags/ve.png"
+        },
+        {
+            "country": "Guyana",
+            "currency": "GYD",
+            "name": "Guyanese Dollar",
+            "rate": 0.21,
+            "flag": "/flags/gy.png"
+        },
+        {
+            "country": "Suriname",
+            "currency": "SRD",
+            "name": "Surinamese Dollar",
+            "rate": 0.002,
+            "flag": "/flags/sr.png"
+        },
+        {
+            "country": "French Guiana",
+            "currency": "EUR",
+            "name": "Euro",
+            "rate": 0.008,
+            "flag": "/flags/gf.png"
+        },
+        {
+            "country": "Brazil",
+            "currency": "BRL",
+            "name": "Brazilian Real",
+            "rate": 0.005,
+            "flag": "/flags/br.png"
+        },
+        {
+            "country": "Paraguay",
+            "currency": "PYG",
+            "name": "Paraguayan Guarani",
+            "rate": 0.007,
+            "flag": "/flags/py.png"
+        },
+        {
+            "country": "Uruguay",
+            "currency": "UYU",
+            "name": "Uruguayan Peso",
+            "rate": 0.04,
+            "flag": "/flags/uy.png"
+        },
+        {
+            "country": "Argentina",
+            "currency": "ARS",
+            "name": "Argentine Peso",
+            "rate": 0.1,
+            "flag": "/flags/ar.png"
+        },
+        {
+            "country": "Chile",
+            "currency": "CLP",
+            "name": "Chilean Peso",
+            "rate": 0.75,
+            "flag": "/flags/cl.png"
+        },
+        {
+            "country": "Bolivia",
+            "currency": "BOB",
+            "name": "Bolivian Boliviano",
+            "rate": 0.007,
+            "flag": "/flags/bo.png"
+        },
+        {
+            "country": "Peru",
+            "currency": "PEN",
+            "name": "Peruvian Sol",
+            "rate": 0.004,
+            "flag": "/flags/pe.png"
+        },
+        {
+            "country": "Ecuador",
+            "currency": "USD",
+            "name": "United States Dollar",
+            "rate": 0.001,
+            "flag": "/flags/ec.png"
+        },
+        {
+            "country": "South Georgia and the South Sandwich Islands",
+            "currency": "GBP",
+            "name": "British Pound Sterling",
+            "rate": 0.001,
+            "flag": "/flags/gs.png"
+        },
+        {
+            "country": "Antarctica",
+            "currency": "USD",
+            "name": "United States Dollar",
+            "rate": 0.001,
+            "flag": "/flags/aq.png"
+        },
+        {
+            "country": "Bouvet Island",
+            "currency": "NOK",
+            "name": "Norwegian Krone",
+            "rate": 0.008,
+            "flag": "/flags/bv.png"
+        },
+        {
+            "country": "Heard Island and McDonald Islands",
+            "currency": "AUD",
+            "name": "Australian Dollar",
+            "rate": 0.002,
+            "flag": "/flags/hm.png"
+        },
+        {
+            "country": "French Southern Territories",
+            "currency": "EUR",
+            "name": "Euro",
+            "rate": 0.008,
+            "flag": "/flags/tf.png"
+        },
+        {
+            "country": "Australia",
+            "currency": "AUD",
+            "name": "Australian Dollar",
+            "rate": 0.002,
+            "flag": "/flags/au.png"
+        },
+        {
+            "country": "New Zealand",
+            "currency": "NZD",
+            "name": "New Zealand Dollar",
+            "rate": 0.019,
+            "flag": "/flags/nz.png"
+        },
+        {
+            "country": "Papua New Guinea",
+            "currency": "PGK",
+            "name": "Papua New Guinean Kina",
+            "rate": 0.004,
+            "flag": "/flags/pg.png"
+        },
+        {
+            "country": "Solomon Islands",
+            "currency": "SBD",
+            "name": "Solomon Islands Dollar",
+            "rate": 0.015,
+            "flag": "/flags/sb.png"
+        },
+        {
+            "country": "Vanuatu",
+            "currency": "VUV",
+            "name": "Vanuatu Vatu",
+            "rate": 0.12,
+            "flag": "/flags/vu.png"
+        },
+        {
+            "country": "Fiji",
+            "currency": "FJD",
+            "name": "Fijian Dollar",
+            "rate": 0.02,
+            "flag": "/flags/fj.png"
+        },
+        {
+            "country": "Marshall Islands",
+            "currency": "USD",
+            "name": "United States Dollar",
+            "rate": 0.001,
+            "flag": "/flags/mh.png"
+        },
+        {
+            "country": "Micronesia",
+            "currency": "USD",
+            "name": "United States Dollar",
+            "rate": 0.001,
+            "flag": "/flags/fm.png"
+        },
+        {
+            "country": "Palau",
+            "currency": "USD",
+            "name": "United States Dollar",
+            "rate": 0.001,
+            "flag": "/flags/pw.png"
+        },
+        {
+            "country": "Tonga",
+            "currency": "TOP",
+            "name": "Tongan Pa'anga",
+            "rate": 0.004,
+            "flag": "/flags/to.png"
+        },
+        {
+            "country": "Samoa",
+            "currency": "WST",
+            "name": "Samoan Tala",
+            "rate": 0.004,
+            "flag": "/flags/ws.png"
+        },
+        {
+            "country": "Cook Islands",
+            "currency": "NZD",
+            "name": "New Zealand Dollar",
+            "rate": 0.019,
+            "flag": "/flags/ck.png"
+        },
+        {
+            "country": "French Polynesia",
+            "currency": "XPF",
+            "name": "CFP Franc",
+            "rate": 0.119,
+            "flag": "/flags/pf.png"
+        },
+        {
+            "country": "Wallis and Futuna",
+            "currency": "XPF",
+            "name": "CFP Franc",
+            "rate": 0.119,
+            "flag": "/flags/wf.png"
+        },
+        {
+            "country": "New Caledonia",
+            "currency": "XPF",
+            "name": "CFP Franc",
+            "rate": 0.119,
+            "flag": "/flags/nc.png"
+        }
+    ]
+}
