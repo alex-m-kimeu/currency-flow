@@ -1,6 +1,7 @@
 import { useEffect, useState } from 'react';
 import { useSearchParams } from 'react-router-dom';
 import data from '../data/data.json';
+import notFound from '../assets/notFound.png';
 
 export const CurrencyList = () => {
   const [currencies, setCurrencies] = useState([]);
@@ -13,22 +14,41 @@ export const CurrencyList = () => {
   }, []);
 
   const filteredCurrencies = currencies.filter(currency =>
-    currency.country.toLowerCase().includes(searchTerm.toLowerCase()) ||
     currency.currency.toLowerCase().includes(searchTerm.toLowerCase())
   );
 
   return (
-    <div className="">
-      {filteredCurrencies.map(currency => (
-        <div key={currency.country} className="">
-          <img src={currency.flag} className="" alt={`${currency.country} flag`} />
-          <div className="">
-            <div className="">{currency.country}</div>
-            <div className="">{currency.currency}</div>
-          </div>
-          <div className="">{currency.rate}</div>
+    <div className='py-2 px-[20px] md:px-[120px]'>
+      {filteredCurrencies.length > 0 ? (
+        <table className='w-full mx-auto text-left'>
+          <thead className='bg-secondary dark:bg-variant-dark text-[16px] md:text-[18px] text-variant-dark  dark:text-primary-light'>
+            <tr>
+              <th className='p-[5px] font-semibold'>Country</th>
+              <th className='p-[5px] font-semibold'>Currency</th>
+              <th className='p-[5px] font-semibold'>Rate</th>
+            </tr>
+          </thead>
+          <tbody className='text-[14px] md:text-[16px] font-normal text-variant-dark dark:text-primary-light'>
+            {filteredCurrencies.map(currency => (
+              <tr key={currency.country} className='bg-primary-light dark:bg-variant-dark border-y-[4px] border-primary-light dark:border-primary-dark'>
+                <td className='p-[5px]'>
+                  <div className='flex items-center gap-[10px]'>
+                    <img src={currency.flag} alt={`${currency.country} flag`} className='w-[25px]' />
+                    {currency.country}
+                  </div>
+                </td>
+                <td className='p-[5px]'>{currency.currency}</td>
+                <td className='p-[5px]'>{currency.rate}</td>
+              </tr>
+            ))}
+          </tbody>
+        </table>
+      ) : (
+        <div className='flex flex-col justify-center items-center'>
+          <img src={notFound} alt='Not found' className='w-[250px] mx-auto' />
+          <p className='text-center text-[16px] font-bold text-variant-dark dark:text-primary-light'>No currencies found.</p>
         </div>
-      ))}
+      )}
     </div>
   );
 };
