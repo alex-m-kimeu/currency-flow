@@ -17,7 +17,7 @@ export const SearchBox = () => {
         <input
           className="flex-grow outline-none px-2 py-1 bg-secondary dark:bg-variant-dark text-variant-dark dark:text-primary-light"
           type="text"
-          placeholder="Currency eg EUR..."
+          placeholder="Search for a currency eg EUR..."
           value={searchTerm}
           onChange={handleSearchChange}
         />
