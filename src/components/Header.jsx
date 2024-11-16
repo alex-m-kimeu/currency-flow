@@ -21,7 +21,7 @@ export const Header = () => {
     return (
         <header className="bg-primary-light dark:bg-variant-dark pt-4 pb-2 px-[20px] md:px-[120px]">
             <div className='flex items-center justify-between'>
-                <img src={darkMode ? logoLight : logoDark} alt="logo" className="h-10" />
+                <img src={darkMode ? logoDark : logoLight} alt="logo" className="h-10" />
                 <div className='flex items-center'>
                     {darkMode ? (
                         <button
