@@ -11,7 +11,7 @@ export const SearchBox = () => {
   };
 
   return (
-    <div className="sticky top-0 bg-primary-light dark:bg-primary-dark z-10 py-4 px-[20px] md:px-[120px]">
+    <div className="sticky top-0 bg-primary-light dark:bg-primary-dark z-10 py-4 px-[20px] md:px-[40px] lg:px-[120px]">
       <div className="flex items-center bg-secondary dark:bg-variant-dark p-2">
         <BiSearch className="w-5 h-5 fill-variant-dark dark:fill-primary-light" />
         <input

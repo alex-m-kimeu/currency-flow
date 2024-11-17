@@ -31,6 +31,16 @@ describe('Currency list tests', () => {
         expect(screen.getByTestId('rate-header')).toHaveTextContent('Rate');
     });
 
+    it('should render 220 countries', () => {
+        render(
+            <BrowserRouter>
+                <CurrencyList />
+            </BrowserRouter>
+        );
+        const countryCells = screen.getAllByTestId(/country-cell-/);
+        expect(countryCells.length).toBe(220);
+    });
+
     it('should display first country with alphabet A', () => {
         render(
             <BrowserRouter>
@@ -51,7 +61,7 @@ describe('Currency list tests', () => {
         const sortedCountries = [...countries].sort((a, b) => a.localeCompare(b));
         expect(countries).toEqual(sortedCountries);
     });
-
+    
     it('should display "No currencies found" message when no currencies are available', () => {
         const originalData = data.rates;
         data.rates = [];

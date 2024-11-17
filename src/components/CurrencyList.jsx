@@ -18,7 +18,7 @@ export const CurrencyList = () => {
   );
 
   return (
-    <div data-testid="currency-table" className='py-2 px-[20px] md:px-[120px]'>
+    <div data-testid="currency-table" className='py-2 px-[20px] md:px-[40px] lg:px-[120px]'>
       {filteredCurrencies.length > 0 ? (
         <table className='w-full mx-auto text-left'>
           <thead className='bg-secondary dark:bg-variant-dark text-[16px] md:text-[18px] text-variant-dark  dark:text-primary-light'>

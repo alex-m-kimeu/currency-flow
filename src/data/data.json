@@ -1,5 +1,4 @@
-{
-    "countries": 114,
+{   "countries": 220,
     "baseCurrency": "KES",
     "rates": [
         {
@@ -799,6 +798,748 @@
             "name": "CFP Franc",
             "rate": 0.119,
             "flag": "/flags/nc.png"
+        },
+        {
+            "country": "Côte d'Ivoire",
+            "currency": "XOF",
+            "name": "West African CFA Franc",
+            "rate": 4.819961,
+            "flag": "/flags/ci.png"
+        },
+        {
+            "country": "Afghanistan",
+            "currency": "AFN",
+            "name": "Afghan Afghani",
+            "rate": 0.009,
+            "flag": "/flags/af.png"
+        },
+        {
+            "country": "Albania",
+            "currency": "ALL",
+            "name": "Albanian Lek",
+            "rate": 0.009,
+            "flag": "/flags/al.png"
+        },
+        {
+            "country": "Andorra",
+            "currency": "EUR",
+            "name": "Euro",
+            "rate": 0.008,
+            "flag": "/flags/ad.png"
+        },
+        {
+            "country": "Armenia",
+            "currency": "AMD",
+            "name": "Armenian Dram",
+            "rate": 0.002,
+            "flag": "/flags/am.png"
+        },
+        {
+            "country": "Azerbaijan",
+            "currency": "AZN",
+            "name": "Azerbaijani Manat",
+            "rate": 0.004,
+            "flag": "/flags/az.png"
+        },
+        {
+            "country": "Bahamas",
+            "currency": "BSD",
+            "name": "Bahamian Dollar",
+            "rate": 0.001,
+            "flag": "/flags/bs.png"
+        },
+        {
+            "country": "Bahrain",
+            "currency": "BHD",
+            "name": "Bahraini Dinar",
+            "rate": 0.003,
+            "flag": "/flags/bh.png"
+        },
+        {
+            "country": "Bangladesh",
+            "currency": "BDT",
+            "name": "Bangladeshi Taka",
+            "rate": 0.008,
+            "flag": "/flags/bd.png"
+        },
+        {
+            "country": "Barbados",
+            "currency": "BBD",
+            "name": "Barbadian Dollar",
+            "rate": 0.002,
+            "flag": "/flags/bb.png"
+        },
+        {
+            "country": "Belarus",
+            "currency": "BYN",
+            "name": "Belarusian Ruble",
+            "rate": 0.003,
+            "flag": "/flags/by.png"
+        },
+        {
+            "country": "Belgium",
+            "currency": "EUR",
+            "name": "Euro",
+            "rate": 0.008,
+            "flag": "/flags/be.png"
+        },
+        {
+            "country": "Benin",
+            "currency": "XOF",
+            "name": "West African CFA Franc",
+            "rate": 4.819961,
+            "flag": "/flags/bj.png"
+        },
+        {
+            "country": "Bhutan",
+            "currency": "BTN",
+            "name": "Bhutanese Ngultrum",
+            "rate": 0.012,
+            "flag": "/flags/bt.png"
+        },
+        {
+            "country": "Bosnia and Herzegovina",
+            "currency": "BAM",
+            "name": "Bosnia and Herzegovina Convertible Mark",
+            "rate": 0.004,
+            "flag": "/flags/ba.png"
+        },
+        {
+            "country": "Brunei",
+            "currency": "BND",
+            "name": "Brunei Dollar",
+            "rate": 0.001,
+            "flag": "/flags/bn.png"
+        },
+        {
+            "country": "Bulgaria",
+            "currency": "BGN",
+            "name": "Bulgarian Lev",
+            "rate": 0.004,
+            "flag": "/flags/bg.png"
+        },
+        {
+            "country": "Burkina Faso",
+            "currency": "XOF",
+            "name": "West African CFA Franc",
+            "rate": 4.819961,
+            "flag": "/flags/bf.png"
+        },
+        {
+            "country": "Cabo Verde",
+            "currency": "CVE",
+            "name": "Cape Verdean Escudo",
+            "rate": 0.810222,
+            "flag": "/flags/cv.png"
+        },
+        {
+            "country": "Cambodia",
+            "currency": "KHR",
+            "name": "Cambodian Riel",
+            "rate": 0.002,
+            "flag": "/flags/kh.png"
+        },
+        {
+            "country": "Cameroon",
+            "currency": "XAF",
+            "name": "Central African CFA Franc",
+            "rate": 4.819961,
+            "flag": "/flags/cm.png"
+        },
+        {
+            "country": "Chad",
+            "currency": "XAF",
+            "name": "Central African CFA Franc",
+            "rate": 4.819961,
+            "flag": "/flags/td.png"
+        },
+        {
+            "country": "China",
+            "currency": "CNY",
+            "name": "Chinese Yuan",
+            "rate": 0.007,
+            "flag": "/flags/cn.png"
+        },
+        {
+            "country": "Croatia",
+            "currency": "HRK",
+            "name": "Croatian Kuna",
+            "rate": 0.001,
+            "flag": "/flags/hr.png"
+        },
+        {
+            "country": "Cuba",
+            "currency": "CUP",
+            "name": "Cuban Peso",
+            "rate": 0.001,
+            "flag": "/flags/cu.png"
+        },
+        {
+            "country": "Cyprus",
+            "currency": "EUR",
+            "name": "Euro",
+            "rate": 0.008,
+            "flag": "/flags/cy.png"
+        },
+        {
+            "country": "Czechia",
+            "currency": "CZK",
+            "name": "Czech Koruna",
+            "rate": 0.003,
+            "flag": "/flags/cz.png"
+        },
+        {
+            "country": "Denmark",
+            "currency": "DKK",
+            "name": "Danish Krone",
+            "rate": 0.007,
+            "flag": "/flags/dk.png"
+        },
+        {
+            "country": "Dominica",
+            "currency": "XCD",
+            "name": "East Caribbean Dollar",
+            "rate": 0.002,
+            "flag": "/flags/dm.png"
+        },
+        {
+            "country": "Dominican Republic",
+            "currency": "DOP",
+            "name": "Dominican Peso",
+            "rate": 0.018,
+            "flag": "/flags/do.png"
+        },
+        {
+            "country": "DPRK",
+            "currency": "KPW",
+            "name": "North Korean Won",
+            "rate": 0.001,
+            "flag": "/flags/kp.png"
+        },
+        {
+            "country": "Estonia",
+            "currency": "EUR",
+            "name": "Euro",
+            "rate": 0.008,
+            "flag": "/flags/ee.png"
+        },
+        {
+            "country": "Eswatini",
+            "currency": "SZL",
+            "name": "Swazi Lilangeni",
+            "rate": 0.14145,
+            "flag": "/flags/sz.png"
+        },
+        {
+            "country": "Finland",
+            "currency": "EUR",
+            "name": "Euro",
+            "rate": 0.008,
+            "flag": "/flags/fi.png"
+        },
+        {
+            "country": "France",
+            "currency": "EUR",
+            "name": "Euro",
+            "rate": 0.008,
+            "flag": "/flags/fr.png"
+        },
+        {
+            "country": "Georgia",
+            "currency": "GEL",
+            "name": "Georgian Lari",
+            "rate": 0.003,
+            "flag": "/flags/ge.png"
+        },
+        {
+            "country": "Germany",
+            "currency": "EUR",
+            "name": "Euro",
+            "rate": 0.008,
+            "flag": "/flags/de.png"
+        },
+        {
+            "country": "Greece",
+            "currency": "EUR",
+            "name": "Euro",
+            "rate": 0.008,
+            "flag": "/flags/gr.png"
+        },
+        {
+            "country": "Grenada",
+            "currency": "XCD",
+            "name": "East Caribbean Dollar",
+            "rate": 0.002,
+            "flag": "/flags/gd.png"
+        },
+        {
+            "country": "Haiti",
+            "currency": "HTG",
+            "name": "Haitian Gourde",
+            "rate": 0.009,
+            "flag": "/flags/ht.png"
+        },
+        {
+            "country": "Holy See",
+            "currency": "EUR",
+            "name": "Euro",
+            "rate": 0.008,
+            "flag": "/flags/va.png"
+        },
+        {
+            "country": "Hungary",
+            "currency": "HUF",
+            "name": "Hungarian Forint",
+            "rate": 0.002,
+            "flag": "/flags/hu.png"
+        },
+        {
+            "country": "Iceland",
+            "currency": "ISK",
+            "name": "Icelandic Króna",
+            "rate": 0.007,
+            "flag": "/flags/is.png"
+        },
+        {
+            "country": "India",
+            "currency": "INR",
+            "name": "Indian Rupee",
+            "rate": 0.012,
+            "flag": "/flags/in.png"
+        },
+        {
+            "country": "Indonesia",
+            "currency": "IDR",
+            "name": "Indonesian Rupiah",
+            "rate": 0.00007,
+            "flag": "/flags/id.png"
+        },
+        {
+            "country": "Iran",
+            "currency": "IRR",
+            "name": "Iranian Rial",
+            "rate": 0.00002,
+            "flag": "/flags/ir.png"
+        },
+        {
+            "country": "Iraq",
+            "currency": "IQD",
+            "name": "Iraqi Dinar",
+            "rate": 0.0007,
+            "flag": "/flags/iq.png"
+        },
+        {
+            "country": "Ireland",
+            "currency": "EUR",
+            "name": "Euro",
+            "rate": 0.008,
+            "flag": "/flags/ie.png"
+        },
+        {
+            "country": "Israel",
+            "currency": "ILS",
+            "name": "Israeli New Shekel",
+            "rate": 0.003,
+            "flag": "/flags/il.png"
+        },
+        {
+            "country": "Italy",
+            "currency": "EUR",
+            "name": "Euro",
+            "rate": 0.008,
+            "flag": "/flags/it.png"
+        },
+        {
+            "country": "Jamaica",
+            "currency": "JMD",
+            "name": "Jamaican Dollar",
+            "rate": 0.006,
+            "flag": "/flags/jm.png"
+        },
+        {
+            "country": "Japan",
+            "currency": "JPY",
+            "name": "Japanese Yen",
+            "rate": 0.007,
+            "flag": "/flags/jp.png"
+        },
+        {
+            "country": "Jordan",
+            "currency": "JOD",
+            "name": "Jordanian Dinar",
+            "rate": 0.001,
+            "flag": "/flags/jo.png"
+        },
+        {
+            "country": "Kazakhstan",
+            "currency": "KZT",
+            "name": "Kazakhstani Tenge",
+            "rate": 0.002,
+            "flag": "/flags/kz.png"
+        },
+        {
+            "country": "Kuwait",
+            "currency": "KWD",
+            "name": "Kuwaiti Dinar",
+            "rate": 0.003,
+            "flag": "/flags/kw.png"
+        },
+        {
+            "country": "Kyrgyzstan",
+            "currency": "KGS",
+            "name": "Kyrgyzstani Som",
+            "rate": 0.001,
+            "flag": "/flags/kg.png"
+        },
+        {
+            "country": "Laos",
+            "currency": "LAK",
+            "name": "Lao Kip",
+            "rate": 0.0001,
+            "flag": "/flags/la.png"
+        },
+        {
+            "country": "Latvia",
+            "currency": "EUR",
+            "name": "Euro",
+            "rate": 0.008,
+            "flag": "/flags/lv.png"
+        },
+        {
+            "country": "Lebanon",
+            "currency": "LBP",
+            "name": "Lebanese Pound",
+            "rate": 0.0007,
+            "flag": "/flags/lb.png"
+        },
+        {
+            "country": "Liechtenstein",
+            "currency": "CHF",
+            "name": "Swiss Franc",
+            "rate": 0.009,
+            "flag": "/flags/li.png"
+        },
+        {
+            "country": "Lithuania",
+            "currency": "EUR",
+            "name": "Euro",
+            "rate": 0.008,
+            "flag": "/flags/lt.png"
+        },
+        {
+            "country": "Luxembourg",
+            "currency": "EUR",
+            "name": "Euro",
+            "rate": 0.008,
+            "flag": "/flags/lu.png"
+        },
+        {
+            "country": "Malaysia",
+            "currency": "MYR",
+            "name": "Malaysian Ringgit",
+            "rate": 0.022,
+            "flag": "/flags/my.png"
+        },
+        {
+            "country": "Maldives",
+            "currency": "MVR",
+            "name": "Maldivian Rufiyaa",
+            "rate": 0.015,
+            "flag": "/flags/mv.png"
+        },
+        {
+            "country": "Moldova",
+            "currency": "MDL",
+            "name": "Moldovan Leu",
+            "rate": 0.004,
+            "flag": "/flags/md.png"
+        },
+        {
+            "country": "Malta",
+            "currency": "EUR",
+            "name": "Euro",
+            "rate": 0.008,
+            "flag": "/flags/mt.png"
+        },
+        {
+            "country": "Monaco",
+            "currency": "EUR",
+            "name": "Euro",
+            "rate": 0.008,
+            "flag": "/flags/mc.png"
+        },
+        {
+            "country": "Mongolia",
+            "currency": "MNT",
+            "name": "Mongolian Tögrög",
+            "rate": 0.0003,
+            "flag": "/flags/mn.png"
+        },
+        {
+            "country": "Montenegro",
+            "currency": "EUR",
+            "name": "Euro",
+            "rate": 0.008,
+            "flag": "/flags/me.png"
+        },
+        {
+            "country": "Myanmar",
+            "currency": "MMK",
+            "name": "Burmese Kyat",
+            "rate": 0.0005,
+            "flag": "/flags/mm.png"
+        },
+        {
+            "country": "Nepal",
+            "currency": "NPR",
+            "name": "Nepalese Rupee",
+            "rate": 0.009,
+            "flag": "/flags/np.png"
+        },
+        {
+            "country": "Netherlands",
+            "currency": "EUR",
+            "name": "Euro",
+            "rate": 0.008,
+            "flag": "/flags/nl.png"
+        },
+        {
+            "country": "North Macedonia",
+            "currency": "MKD",
+            "name": "Macedonian Denar",
+            "rate": 0.014,
+            "flag": "/flags/mk.png"
+        },
+        {
+            "country": "Norway",
+            "currency": "NOK",
+            "name": "Norwegian Krone",
+            "rate": 0.008,
+            "flag": "/flags/no.png"
+        },
+        {
+            "country": "Oman",
+            "currency": "OMR",
+            "name": "Omani Rial",
+            "rate": 0.002,
+            "flag": "/flags/om.png"
+        },
+        {
+            "country": "Pakistan",
+            "currency": "PKR",
+            "name": "Pakistani Rupee",
+            "rate": 0.007,
+            "flag": "/flags/pk.png"
+        },
+        {
+            "country": "Philippines",
+            "currency": "PHP",
+            "name": "Philippine Peso",
+            "rate": 0.019,
+            "flag": "/flags/ph.png"
+        },
+        {
+            "country": "Poland",
+            "currency": "PLN",
+            "name": "Polish Złoty",
+            "rate": 0.002,
+            "flag": "/flags/pl.png"
+        },
+        {
+            "country": "Portugal",
+            "currency": "EUR",
+            "name": "Euro",
+            "rate": 0.008,
+            "flag": "/flags/pt.png"
+        },
+        {
+            "country": "Qatar",
+            "currency": "QAR",
+            "name": "Qatari Riyal",
+            "rate": 0.003,
+            "flag": "/flags/qa.png"
+        },
+        {
+            "country": "Romania",
+            "currency": "RON",
+            "name": "Romanian Leu",
+            "rate": 0.002,
+            "flag": "/flags/ro.png"
+        },
+        {
+            "country": "Russia",
+            "currency": "RUB",
+            "name": "Russian Ruble",
+            "rate": 0.001,
+            "flag": "/flags/ru.png"
+        },
+        {
+            "country": "Saint Kitts and Nevis",
+            "currency": "XCD",
+            "name": "East Caribbean Dollar",
+            "rate": 0.002,
+            "flag": "/flags/kn.png"
+        },
+        {
+            "country": "Saint Lucia",
+            "currency": "XCD",
+            "name": "East Caribbean Dollar",
+            "rate": 0.002,
+            "flag": "/flags/lc.png"
+        },
+        {
+            "country": "San Marino",
+            "currency": "EUR",
+            "name": "Euro",
+            "rate": 0.008,
+            "flag": "/flags/sm.png"
+        },
+        {
+            "country": "Saudi Arabia",
+            "currency": "SAR",
+            "name": "Saudi Riyal",
+            "rate": 0.003,
+            "flag": "/flags/sa.png"
+        },
+        {
+            "country": "Serbia",
+            "currency": "RSD",
+            "name": "Serbian Dinar",
+            "rate": 0.009,
+            "flag": "/flags/rs.png"
+        },
+        {
+            "country": "Singapore",
+            "currency": "SGD",
+            "name": "Singapore Dollar",
+            "rate": 0.001,
+            "flag": "/flags/sg.png"
+        },
+        {
+            "country": "Slovakia",
+            "currency": "EUR",
+            "name": "Euro",
+            "rate": 0.008,
+            "flag": "/flags/sk.png"
+        },
+        {
+            "country": "Spain",
+            "currency": "EUR",
+            "name": "Euro",
+            "rate": 0.008,
+            "flag": "/flags/es.png"
+        },
+        {
+            "country": "Palestine",
+            "currency": "ILS",
+            "name": "Israeli New Shekel",
+            "rate": 0.003,
+            "flag": "/flags/ps.png"
+        },
+        {
+            "country": "Sweden",
+            "currency": "SEK",
+            "name": "Swedish Krona",
+            "rate": 0.007,
+            "flag": "/flags/se.png"
+        },
+        {
+            "country": "Switzerland",
+            "currency": "CHF",
+            "name": "Swiss Franc",
+            "rate": 0.009,
+            "flag": "/flags/ch.png"
+        },
+        {
+            "country": "Syria",
+            "currency": "SYP",
+            "name": "Syrian Pound",
+            "rate": 0.0004,
+            "flag": "/flags/sy.png"
+        },
+        {
+            "country": "Tajikistan",
+            "currency": "TJS",
+            "name": "Tajikistani Somoni",
+            "rate": 0.001,
+            "flag": "/flags/tj.png"
+        },
+        {
+            "country": "Thailand",
+            "currency": "THB",
+            "name": "Thai Baht",
+            "rate": 0.003,
+            "flag": "/flags/th.png"
+        },
+        {
+            "country": "Togo",
+            "currency": "XOF",
+            "name": "West African CFA Franc",
+            "rate": 4.819961,
+            "flag": "/flags/tg.png"
+        },
+        {
+            "country": "Trinidad and Tobago",
+            "currency": "TTD",
+            "name": "Trinidad and Tobago Dollar",
+            "rate": 0.001,
+            "flag": "/flags/tt.png"
+        },
+        {
+            "country": "Turkey",
+            "currency": "TRY",
+            "name": "Turkish Lira",
+            "rate": 0.002,
+            "flag": "/flags/tr.png"
+        },
+        {
+            "country": "Turkmenistan",
+            "currency": "TMT",
+            "name": "Turkmenistani Manat",
+            "rate": 0.001,
+            "flag": "/flags/tm.png"
+        },
+        {
+            "country": "U.A.E",
+            "currency": "AED",
+            "name": "United Arab Emirates Dirham",
+            "rate": 0.003,
+            "flag": "/flags/ae.png"
+        },
+        {
+            "country": "U.K",
+            "currency": "GBP",
+            "name": "British Pound Sterling",
+            "rate": 0.007,
+            "flag": "/flags/gb.png"
+        },
+        {
+            "country": "Ukraine",
+            "currency": "UAH",
+            "name": "Ukrainian Hryvnia",
+            "rate": 0.002,
+            "flag": "/flags/ua.png"
+        },
+        {
+            "country": "Uzbekistan",
+            "currency": "UZS",
+            "name": "Uzbekistani Som",
+            "rate": 0.0001,
+            "flag": "/flags/uz.png"
+        },
+        {
+            "country": "Vietnam",
+            "currency": "VND",
+            "name": "Vietnamese Dong",
+            "rate": 0.00004,
+            "flag": "/flags/vn.png"
+        },
+        {
+            "country": "Yemen",
+            "currency": "YER",
+            "name": "Yemeni Rial",
+            "rate": 0.0004,
+            "flag": "/flags/ye.png"
         }
     ]
 }
